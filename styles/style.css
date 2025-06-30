@@ -60,7 +60,7 @@ img {
 
 .promo  {
     padding: 75px 0 175px 0;
-    background-image: url("/images/photo2.jpg");
+    background-image: url("images/photo2.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -233,7 +233,7 @@ img {
 
 .app  {
     padding: 115px 0 125px 0;
-    background-image: url("/images/back.jpg");
+    background-image: url("images/back.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
